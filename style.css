@@ -49,8 +49,9 @@ textarea::placeholder{
 button{
     background: #ff2963 ;
     color: #fff;
+    height: 40px;
     font-size: 16px;
-    padding: 10px 30px;
+    padding: 0px 30px;
     border-radius: 35px;
     border: 0;
     outline: 0;
@@ -66,7 +67,7 @@ select{
     flex: 1;
     color: #fff;
     background: #403d84;
-    height: 50px;
+    height: 40px;
     padding: 0 20px;
     border-radius: 35px;
     border: 0;
